@@ -1,0 +1,21 @@
+{
+  "name": "12Sep",
+  "type": "package",
+  "blockId": "zZaq6zYDAl21mrA8uUlPw",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_12Sep"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "12Sep_Block1": {
+      "directory": "12Sep_Block1"
+    }
+  }
+}
