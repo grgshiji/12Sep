@@ -1,0 +1,21 @@
+{
+  "blockId": "myAhVGJpavFtnXrSTbV6R",
+  "name": "12Sep_Block3",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/grgshiji/12Sep.git",
+    "ssh": "git@github.com:grgshiji/12Sep.git",
+    "branch": "block_12Sep_Block3"
+  },
+  "parentBlockIDs": [
+    "zZaq6zYDAl21mrA8uUlPw"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}
