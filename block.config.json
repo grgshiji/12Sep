@@ -16,6 +16,9 @@
   "dependencies": {
     "12Sep_Block1": {
       "directory": "12Sep_Block1"
+    },
+    "12Sep_Block2": {
+      "directory": "12Sep_Block2"
     }
   }
 }
